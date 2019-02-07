@@ -1,2 +1,7 @@
-# oil_gas_technical_paper_template_python
-Template for Oil &amp; Gas
+# Technical Paper Templates for Oil & Gas
+
+
+# Templates & Status
+
+* Python (Juypter Notebook) - WIP
+* R - Not started
