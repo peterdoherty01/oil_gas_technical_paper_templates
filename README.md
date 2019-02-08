@@ -10,3 +10,7 @@ Technical Paper Templates for Oil & Gas. The idea is to publish papers in jupyte
 # View Templates
 
 * [Juypter Notebook viewer](https://nbviewer.jupyter.org/github/peter-doherty/oil_gas_technical_paper_templates/blob/master/python/Technical_Paper_Template_Oil_Gas.ipynb)
+
+# References
+
+* In Depth: Linear RegressioPython Data Science Handbook, https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
