@@ -1,11 +1,15 @@
 # Rethinking Technical Papers for Oil & Gas
 
-Technical Paper Templates for Oil & Gas. The idea is to publish papers in jupyter or r instead of Word, Excel and PDF.
+Technical Paper Templates for Oil & Gas. The idea is to publish papers in Jupyter (Python) or Rmarkdown instead of Word, Excel and PDF.
 
-# Templates & Status
+# Motivation
 
-* Python (Juypter Notebook) - WIP
-* R - Not started
+See [here](motivation/test.md).
+
+# Status
+
+* Python (Jupyter Notebook) - WIP
+* R - To Do
 
 # View Templates
 
@@ -13,4 +17,4 @@ Technical Paper Templates for Oil & Gas. The idea is to publish papers in jupyte
 
 # References
 
-* In Depth: Linear RegressioPython Data Science Handbook, https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
+* In Depth: Linear Regression Python Data Science Handbook, https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb
