@@ -10,25 +10,13 @@ Normally, we use tools like Excel or Python to analyze data and generate results
 
 Thanks to research by [Alfonso R. Reyes](https://www.linkedin.com/pulse/evolution-data-science-machine-learning-artificial-petroleum-reyes/), we can deduce that Python and R are the languages increasingly used amongst engineers for Machine Learning and Data Science. Moreover, more and more papers are being published with Machine Learning and Data Science methodologies. It can also be deduced from the popularity of open online courses and competitions proposed by [Kaggle](https://www.kaggle.com/), that new engineers to the industry prefer working with these languages.
 
-**A streamlined way** to make papers more useful to your organization and the industry is required. Performing data analysis and presenting results tables and figures in one centralized place is a good solutions. This could be done with Juypter Notebooks and source control (GitHub). When ready for publication, one can compile the notebook for PDF or other. Thus, reducing tedious hand checks.
-
-## Practices Beyond Oil & Gas
-
-You might be asking yourself: "Where else is this done?"
-
-I've gathered some examples from the Finance, Mathematical and Scientific communities hereafter:
-
-* Finance: https://nbviewer.jupyter.org/github/vincentarelbundock/Reinhart-Rogoff/blob/master/reinhart-rogoff.ipynb
-
-* Mathematics: https://nbviewer.jupyter.org/github/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb
-
-* Physics: https://nbviewer.jupyter.org/github/waltherg/notebooks/blob/master/2013-12-03-Crank_Nicolson.ipynb
+**A streamlined way** to make papers more useful to your organization and the industry is required. Performing data analysis and presenting results tables and figures in one centralized place is a good solution. This could be done with Juypter Notebooks and source control (GitHub). When ready for publication, one can compile the notebook for PDF or other. Thus, reducing hard labour.
 
 ## Getting Onboard
 
 Is a big effort required to adopt this method? No. Simply put, the industry already uses languages like Python and R for their analysis work anyway. Writing reports in this way does not require a big upheaval in any way.
 
-I haven't looked at all the limitations but some barriers could age and culture. 
+I haven't looked at all the limitations but some barriers could age and culture. People may be "set in their ways" after 20, 25 years in the industry. Why would I change an established format now?
 
 Currently, in the draft template proposed, there is no automatic figure or table numbering. But this might be addressed by using LaTex. Moreover, if another markup format is used, PanDoc could be a solution to offer a **zero cost alternative** to current methods.
 
@@ -36,26 +24,36 @@ Currently, in the draft template proposed, there is no automatic figure or table
 
 ## Example Template - A Way Forward
 
-To get a clearer picture of what I'm discussing in this article, I've set up an example Jupyter Notebook draft template and published it here. It could be adapted for R too.
+To get a clearer picture of what I'm discussing in this article, I've set up an [example Jupyter Notebook draft template](https://nbviewer.jupyter.org/github/peter-doherty/oil_gas_technical_paper_templates/blob/master/python/Technical_Paper_Template_Oil_Gas.ipynb). It could be adapted for R too.
 These notebooks could be easily put behind a paywall to maintain revenue channels for the conference organizers.
 
-The template can be updated via [GitHub](https://github.com/
+The source repository can be found and updated via [GitHub](https://github.com/peter-doherty/oil_gas_technical_paper_templates
 ) and is **open to contributions** from the industry.
 
 **The idea is to allow the industry to build upon this template through open collaboration under the GNU General Public License v3.0.**
 
 ## Conclusion
 
-This is not a "game changer" for the industry. As working in the browser becomes more mainstream in oil & gas, programming in the browser to report our learnings should be adopted too. An improvement like this, with not-so-much effort, can contribute to:
+You might be asking yourself: "Does any other industry do this?". Short answer is yes.
+
+I've gathered some **examples from the Finance, Mathematical and Scientific communities** hereafter:
+
+* Finance: https://nbviewer.jupyter.org/github/vincentarelbundock/Reinhart-Rogoff/blob/master/reinhart-rogoff.ipynb
+
+* Mathematics: https://nbviewer.jupyter.org/github/fonnesbeck/multilevel_modeling/blob/master/multilevel_modeling.ipynb
+
+* Physics: https://nbviewer.jupyter.org/github/waltherg/notebooks/blob/master/2013-12-03-Crank_Nicolson.ipynb
+
+This idea is not a "game changer" for the industry. As working in the browser becomes more mainstream in oil & gas, programming in the browser to report our learnings should be adopted too. An improvement like this, with not-so-much effort, can contribute to:
 
 1. Boosting the quality of the industries work
 2. Encouraging young engineers to publish their work
 
 ## Further Reading
 
-1. [Intro to Anaconda]()
-2. [Intro to Jupyter Notebooks]()
-3. [Intro to R]()
+1. [Intro to Anaconda](https://www.anaconda.com/)
+2. [Intro to Jupyter Notebooks](https://www.youtube.com/watch?v=q_BzsPxwLOE)
+3. [Intro to R](https://www.youtube.com/watch?v=DNS7i2m4sB0)
 4. [Publishing Jupyter Notebooks, Documentation](https://ipypublish.readthedocs.io/en/latest/)
 5. [A Gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 6. [A Gallery of interesting Jupyter Notebooks in languages other than Python](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#notebooks-in-languages-other-than-python)
