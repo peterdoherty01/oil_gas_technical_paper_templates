@@ -4,7 +4,7 @@ Technical Paper Templates for Oil & Gas. The idea is to publish papers in Jupyte
 
 # Motivation
 
-See [here](motivation/test.md).
+See [here](motivation/rethinking-technical-papers-og.md).
 
 # Status
 
